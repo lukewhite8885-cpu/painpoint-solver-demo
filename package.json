@@ -1,0 +1,9 @@
+{
+  "name": "painpoint-solver-demo",
+  "version": "1.0.0",
+  "description": "Demo for product market research, deployment, and testing",
+  "scripts": {
+    "dev": "echo 'Static site'",
+    "build": "echo 'No build needed'"
+  }
+}
